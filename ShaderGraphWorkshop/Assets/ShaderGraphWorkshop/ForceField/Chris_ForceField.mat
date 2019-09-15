@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Chris_ForceField
+  m_Shader: {fileID: -6465566751694194690, guid: 944331e38c12bca459c9dd5a199e7dec,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_6158041:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Pattern:
+        m_Texture: {fileID: 2800000, guid: 7826c73f2f69c764e86997f05b8711e0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1CB3BB08: 0
+    - Vector1_2C3567FC: 0
+    - _EdgeOffset: 0.43
+    - _FillAmount: 0.63
+    - _FresnelPower: 5
+    m_Colors:
+    - Vector4_9FF6B859: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 0.5019608, g: 7.87451, b: 0, a: 0}
+    - _TileOffset: {r: 5, g: 5, b: 0, a: 0.1}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Chris_Hologram
+  m_Shader: {fileID: -6465566751694194690, guid: f68ac1c8474b30d4790f30202818da68,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _HologramTex:
+        m_Texture: {fileID: 2800000, guid: 7a8dc8cf689d383498d1f565df704f1b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _FresnelPower: 4.6
+    m_Colors:
+    - Color_1A80B183: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 2.4293191, g: 15.999998, b: 0, a: 0}
+    - _FresnelColor: {r: 1.3940256, g: 4.8960896, b: 6.4941187, a: 0}
+    - _Offset: {r: 0, g: 0.1, b: 0, a: 0}
+    - _Tile: {r: 0.5, g: 0.5, b: 0, a: 0}
